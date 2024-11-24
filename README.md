@@ -16,9 +16,4 @@ SepalLengthCm	SepalWidthCm	PetalLengthCm	PetalWidthCm	Species
 4.9	3.0	1.4	0.2	Iris-setosa
 4.7	3.2	1.3	0.2	Iris-setosa
 ...	...	...	...	...
-Usage
-You can use this dataset for various machine learning tasks such as:
 
-Classification: Predict the species of a flower based on its features.
-Clustering: Group similar flowers based on their features.
-Data visualization: Plot relationships between different features.
